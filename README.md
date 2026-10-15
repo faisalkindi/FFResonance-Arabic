@@ -8,7 +8,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FINAL FANTASY RESONANCE DEMO - Arabic v1.0.0-beta.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FFResonance-Demo-Arabic-v1.0.0-beta.exe`.
 
 ## التثبيت
 

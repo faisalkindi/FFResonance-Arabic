@@ -10,6 +10,8 @@
 
 من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FFResonance-Arabic-v1.0.5-beta.exe`.
 
+أو حمّله من [Nexus Mods](https://www.nexusmods.com/finalfantasyresonance/mods/44).
+
 ## التثبيت
 
 1. أغلق اللعبة.
@@ -38,6 +40,6 @@
 
 ---
 
-Full Arabic localization of FINAL FANTASY RESONANCE (Steam, build 24250053): the whole story, side quests, party chats, menus, items, skills, tutorials and system messages, with the Readex Pro font. Arabic is added as an extra language; voices and the other languages are unchanged, and the game's own files are not modified. Download the installer from [Releases](../../releases/latest).
+Full Arabic localization of FINAL FANTASY RESONANCE (Steam, build 24250053): the whole story, side quests, party chats, menus, items, skills, tutorials and system messages, with the Readex Pro font. Arabic is added as an extra language; voices and the other languages are unchanged, and the game's own files are not modified. Download the installer from [Releases](../../releases/latest) or [Nexus Mods](https://www.nexusmods.com/finalfantasyresonance/mods/44).
 
 This is a fan project, not affiliated with or endorsed by SQUARE ENIX. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.

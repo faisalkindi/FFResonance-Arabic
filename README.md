@@ -8,7 +8,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FFResonance-Demo-Arabic-v1.0.2-beta.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FFResonance-Demo-Arabic-v1.0.3-beta.exe`.
 
 ## التثبيت
 

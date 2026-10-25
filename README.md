@@ -8,7 +8,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FFResonance-Arabic-v1.0.5-beta.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `FFResonance-Arabic-v1.0.6-beta.exe`.
 
 أو حمّله من [Nexus Mods](https://www.nexusmods.com/finalfantasyresonance/mods/44).
 
